@@ -9,9 +9,7 @@
           target="_blank"
         >
           Core Docs
-					
-					
-					汉子链接打上试试看看
+			ss红色的海虹
 					
         </a>
       </li>
